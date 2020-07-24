@@ -1,9 +1,9 @@
 ---
-title: "Detection of Differentially Interacting Chromatin Regions From Multiple Hi-C Datasets"
-subtitle: "#bioc2020 workshop introducing HiCcompare and multiHiCcompare R/Bioconductor packages"
-author: "Mikhail Dozmorov"
-institute: "Virginia Commonwealth University"
-date: "2020-07-30, 10:00-10:55am ET"
+title: "Machine Learning With Galaxy"
+subtitle: ""
+author: "Shaurya Jauhari, PhD"
+institute: "Guangzhou Medical University"
+date: "2020-08-14"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -17,7 +17,7 @@ output:
 layout: true
   
 <div class="my-footer">
-<img src="img/logo_bioconductor.gif">
+<img src="img/labLogo.png" alt = "Mora Lab logo" height = "100" width = "200" />
 </div>
 
 ---
