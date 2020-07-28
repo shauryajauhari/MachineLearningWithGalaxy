@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/643732/59c8424d81d24aa49a4e05bb06d5a596
+bundleId: https://api.rpubs.com/api/v1/document/643732/59c8424d81d24aa49a4e05bb06d5a596
+url: http://rpubs.com/shauryajauhari/643732
+when: 1595932296.01497
